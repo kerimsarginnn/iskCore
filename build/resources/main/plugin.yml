@@ -1,0 +1,4 @@
+name: iskCore
+version: '1.1'
+main: net.kerim.Core.iskCore
+api-version: 1.19
